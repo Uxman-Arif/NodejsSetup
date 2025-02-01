@@ -1,5 +1,5 @@
 const express = require('express');
-const routes = require('./routes/user');
+const routes = require('./routes/urls');
 const usermdl = require('./models/usermodel');
 const connect = require('./connection');
 
